@@ -1,2 +1,2 @@
 # Random-Captcha-Generator
-Can randomly generated captcha to match it..
+Can randomly generate captcha to match it..
